@@ -1,4 +1,4 @@
-# ‰Û‘è7
+# èª²é¡Œ7
 https://drive.google.com/file/d/1RO_kKTlwt3e7DwhqVk_llWF5bAUm8h2X/view?usp=sharing
 
 
@@ -9,4 +9,4 @@ https://drive.google.com/file/d/1RO_kKTlwt3e7DwhqVk_llWF5bAUm8h2X/view?usp=shari
 >old1+old2 >= 40
 >
 >3.
->name == '“Œ‹'
+>name == 'æ±äº¬'
